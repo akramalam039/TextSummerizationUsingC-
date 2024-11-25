@@ -6,7 +6,9 @@ namespace GetConfiguration
     {
         static void Main(string[] args)
         {
-
+            //To Do- https://dotnet.microsoft.com/en-us/apps/ai/ml-dotnet, https://github.com/dotnet/machinelearning-samples/tree/main/samples/csharp/getting-started/Clustering_CustomerSegmentation?WT.mc_id=dotnet-35129-website,
+            //https://www.youtube.com/watch?v=C-lnYdAR9UI
+            //https://github.com/dotnet/machinelearning/milestone/16
             Console.WriteLine("Hello, World!");
 
             var mlContext = new MLContext();
